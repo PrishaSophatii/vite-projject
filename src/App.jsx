@@ -7,6 +7,7 @@ function App() {
   return (
     <>
       <div> heelo this is my vite app</div>
+      <p>hello</p>
     </>
   )
 }
